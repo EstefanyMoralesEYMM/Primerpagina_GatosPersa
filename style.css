@@ -1,0 +1,128 @@
+*{
+    font-family: 'Comfortaa', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.img2{
+    box-shadow: 2px 2px 8px 2px #000000;
+    border-radius: 20px;
+}
+main{
+    height:450px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://th.bing.com/th/id/OIP.wRwwPoiKorzkF0yUckLkfwHaHa?pid=ImgDet&rs=1);
+}
+.img1{
+    width: 30%;
+    float: right;
+    margin-right: 40px;
+}
+body{
+    background-color: rgb(255, 228, 152);
+    font-size: large;
+}
+p{
+    color: rgb(65, 59, 59);
+    font-family: 'Croissant One', serif;
+    width: 60%;
+    float: left;
+}
+.titulo3{
+    color: saddlebrown;
+}
+.titulo2{
+    color: darkred;
+    font-family: 'Croissant One', serif;
+}
+.titulo1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(253, 220, 171);
+    top: 0%;
+    text-align: center;
+    position: sticky;
+    position: -webkit-sticky;
+    box-shadow: 0px 10px 10px 0px #000000;
+}
+#lista{
+    color:forestgreen;
+    width: 70%;
+    text-align: left;
+}
+.d-flex{
+    background-color: rgb(253, 220, 171);
+}
+#btn-search{
+    width: 55px;
+    height: 50px;
+    background-image: url("https://cdn.icon-icons.com/icons2/4034/PNG/512/zoom_zooming_detective_searching_engine_search_icon_256413.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#btn-search:hover{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/009/303/117/non_2x/cat-paw-clipart-design-illustration-free-png.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inp{
+    background-color: transparent;
+    border-color: transparent;
+    height: 35px;
+}
+#lt{
+    color: rgb(54, 47, 7);
+    background-color: transparent;
+    border-color: black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+}
+.color{
+    color: rgb(221, 168, 130);
+}
+.listatitulo{
+    color: saddlebrown;
+}
+.inptitulo{
+    color: saddlebrown;
+}
+.inpopciones{
+    color: rgb(221, 168, 130);
+}
+.tnombre{
+    color: saddlebrown;
+}
+.tgp{
+    color: saddlebrown;
+}
+#si{
+    color: chartreuse;
+}
+#no{
+    color: red;
+}
+a{
+    color: saddlebrown;
+}
+.hd{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/660/575/original/cat-footprints-seamless-pattern-background-design-for-pillow-print-fashion-clothing-fabric-gift-wrap-mockup-template-mask-face-seamless-pattern-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 2;
+    text-align: center;
+    height: 250px;
+}
+form{
+    background-color: rgb(255, 225, 148);
+    font: bold;
+    width: 60%;
+}
+#op{
+    text-align: left;
+    width: 50%;
+}
+footer{
+    text-align: center;
+}

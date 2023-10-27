@@ -126,3 +126,6 @@ form{
 footer{
     text-align: center;
 }
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
